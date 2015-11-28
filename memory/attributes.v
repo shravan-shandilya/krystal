@@ -1,0 +1,4 @@
+`define INSTR_WIDTH 12
+`define MEM_SIZE 256
+`define ADDR_WIDTH 8
+`define WRITABLE_MEMORY 200
